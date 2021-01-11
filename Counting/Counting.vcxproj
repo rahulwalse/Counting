@@ -140,6 +140,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Counting.cpp" />
+    <ClCompile Include="FailedStudentsCount.cpp" />
+    <ClCompile Include="NegativeNonNegativeCount.cpp" />
+    <ClCompile Include="PassedStudentsCount.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="countingf.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

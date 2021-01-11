@@ -18,5 +18,19 @@
     <ClCompile Include="Counting.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="PassedStudentsCount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="NegativeNonNegativeCount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="FailedStudentsCount.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="countingf.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
